@@ -193,8 +193,8 @@ class App {
                 <div class="note-text">${note.text}</div>
                 <div class="toolbar-container">
                     <div class="toolbar">
-                        <img class="toolbar-color" data-id=${note.id} src="/images/palette-solid.svg">
-                        <img class="toolbar-delete" data-id=${note.id} src="/images/trash-solid.svg">
+                        <img class="toolbar-color" data-id=${note.id} src="images/palette-solid.svg">
+                        <img class="toolbar-delete" data-id=${note.id} src="images/trash-solid.svg">
                     </div> 
                 </div>
                 </div>
